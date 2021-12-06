@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string-array name="nama">
+        <item>Aplikasi 1</item>
+        <item>Aplikasi 2</item>
+        <item>Aplikasi 3</item>
+        <item>Aplikasi 4</item>
+    </string-array>
+
+    <string-array name="desapp">
+        <item>Contoh Deskripsi untuk app 1</item>
+        <item>Contoh Deskripsi untuk app 2</item>
+        <item>Contoh Deskripsi untuk app 3</item>
+        <item>Contoh Deskripsi untuk app 4</item>
+        </string-array>
+
+    <string-array name="logoapp">
+        <item>logo1</item>
+        <item>logo2</item>
+        <item>logo3</item>
+        <item>logo4</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>$10</item>
+        <item>$12</item>
+        <item>$40</item>
+        <item>$0</item>
+    </string-array>
+</resources>
