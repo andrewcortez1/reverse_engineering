@@ -6,4 +6,4 @@ Shop Folder : Folder apk yang dibuat</br>
 Hacked Folder : 
 
 Preview app :
-(https://github.com/andrewcortez1/reverse_engineering/blob/main/preview_images/realApp_Downloaded.PNG)
+![alt text](https://github.com/andrewcortez1/reverse_engineering/blob/main/preview_images/realApp_Downloaded.PNG)
