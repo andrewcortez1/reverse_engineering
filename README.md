@@ -6,4 +6,4 @@ Shop Folder : Folder apk yang dibuat</br>
 Hacked Folder : 
 
 Preview app : Disini, apps yang bisa di download, hanya yang gratis</br>
-<img src = "https://github.com/andrewcortez1/reverse_engineering/blob/main/preview_images/realApp_Downloaded.PNG" width ="40">
+<img src = "https://github.com/andrewcortez1/reverse_engineering/blob/main/preview_images/realApp_Downloaded.PNG" width ="120">
