@@ -10,3 +10,5 @@ Preview app : Disini, apps yang bisa di download, hanya yang gratis</br>
 
 Preview app : Berbayar </br>
 <img src = "https://github.com/andrewcortez1/reverse_engineering/blob/main/preview_images/realApp_NotDownloadded.PNG" width ="280">
+
+</br> Setelah kami melakukan reverse engineering, semua aplikasi yang berbayar menjadi gratis semua
