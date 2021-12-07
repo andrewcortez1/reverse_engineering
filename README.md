@@ -1,5 +1,5 @@
 # Reverse Engineering Android APK
-We try to reverse engineer app that we made 
+We try to reverse engineer app that we made for the sake of learning Mobile Security and More knowledge
 
 321, 421, 901, 631 </br>
 Shop Folder : Folder apk yang dibuat</br>
