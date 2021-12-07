@@ -1,5 +1,5 @@
-dex2jar compiler : https://github.com/DexPatcher/dex2jar/releases/download/v2.1-20171001-lanchon/dex-tools-2.1-20171001-lanchon.zip (Untuk decompiles app kita )
+dex2jar compiler : https://github.com/DexPatcher/dex2jar/releases/download/v2.1-20171001-lanchon/dex-tools-2.1-20171001-lanchon.zip (Untuk decompiles app kita, menjadi JAR )
 
-jd-gui : http://java-decompiler.github.io/ (Untuk preview code apk kita)
+jd-gui : http://java-decompiler.github.io/ (Untuk preview code apk kita, dari JAR files)
 
 apktool : https://ibotpeaches.github.io/Apktool/ (Untuk compile app menjadi smali, yang bisa diedit dengan assembly)
